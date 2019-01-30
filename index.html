@@ -7,11 +7,10 @@
     <meta name="MobileOptimized" content="width" />
 	<meta name="allow-search" content="yes" />
     <meta name="subject" content="Kirana List" />
-  <meta name="geo.region" content="IN" />
  <meta name="keywords" content="online, grossary, list, make, marathi, kitana items," />
     <meta name="description" content="KiranaList - single-page web-app is designed for you for helping in the creation of household grocerry list." />
 
-	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; minimum-scale=1.0; user-scalable=0;" />
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; " />
 
     <title>kirana_site</title>
     <link rel="stylesheet" href="iassets/bootstrap/css/bootstrap.min.css">
@@ -26,25 +25,30 @@
     <link rel="stylesheet" href="iassets/css/kirana_nav.css">
 </head>
 
-<body style="font-family:'Nunito', sans-serif;" >
+<body style="font-family:'Nunito', sans-serif; "  data-offset="10" data-spy="scroll" data-target=".navbar">
+
     <nav class="navbar navbar-light navbar-expand-sm fixed-top bg-dark" style="background-color:rgba(0,0,0,0.1);">
         <div class="container-fluid"><a class="navbar-brand" href="#" style="color:#ffffff;">&nbsp;<i class="fa fa-shopping-basket" data-bs-hover-animate="swing" style="color:#ffcc49;"></i><strong>&nbsp; KiranaList</strong></a>                        
 
 		<button class="navbar-toggler" data-toggle="collapse"
                 data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+				
             <div class="collapse navbar-collapse" id="navcol-1"><hr>
                 <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item" role="presentation"><a class="nav-link text-uppercase text-warning active" href="#"><i class="fa fa-info-circle"></i>&nbsp; Introduction</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link text-uppercase text-warning active" href="#"><i class="fa fa-file-text"></i>&nbsp; Make a list</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link text-uppercase text-warning active" href="#"><i class="fa fa-commenting"></i>&nbsp; Feedback</a></li>
+                    <li class="nav-item" ><a class="nav-link text-uppercase text-warning active" href="#intro"><i class="fa fa-info-circle"></i>&nbsp; Introduction</a></li>
+                    <li class="nav-item" ><a class="nav-link text-uppercase text-warning active" href="#makealist"><i class="fa fa-file-text"></i>&nbsp; Make a list</a></li>
+                    <li class="nav-item" ><a class="nav-link text-uppercase text-warning active" href="#feedback"><i class="fa fa-commenting"></i>&nbsp; Feedback</a></li>
                 </ul>
             </div>
         </div>
     </nav>
-    <div class="features-blue">
+	
+	
+    <div class="features-blue"  id="intro">
         <div class="container-fluid">
-            <hr>		
-            <hr>
+            <br>		
+            <br>
+            <br>
             <div class="intro">
                 <h2 class="text-uppercase text-center text-warning">• INTRODUCTION •</h2>
                 <p class="lead text-justify text-light" style="font-size:16px;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Welcome to </strong><em>KiranaList</em><strong>..&nbsp;KiranaList&nbsp;means Grocerry list.. This simple yet useful web-app is designed for you for helping in the creation of household grocerry list.&nbsp;</strong><br><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My aim is to provide the list of most of the Grocerry items in pictorial and textual format for easier understanding while making a list.. Most of the items are displayed in English, Marathi and Hindi language. You can use it free of cost and does not include any login process. Just select the items from the list or search for it, add to your list and click on GetPdf button.. Done.. This will create a pdf file of your selected items..&nbsp;</strong><br><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I Hope, you will enjoy my attempt to make this task easier...&nbsp;</strong><br></p>
@@ -53,7 +57,7 @@
     <div class="row">
         <div class="col-md-8">
             <div class="intro">
-                <p><h5 class=" text-center text-dark"><b> How I got that !dea.. Here is the reason.. </b></h5></p>
+                <p><h5 class=" text-center text-dark"><b> How I got that idea.. Here is the reason.. </b></h5></p>
                 <hr /><a href="https://maharashtratimes.indiatimes.com/lifestyle-news/relationships/this-wifes-grocery-list-had-drawings-in-it-so-that-her-husband-wouldnt-mess-up-her-vegetables/articleshowprint/60840493.cms" target="_blank" class="text-primary align-items-center align-content-center align-self-center"><strong></strong><i class="fa fa-external-link"></i><strong>  व्हायरल झालेली सामानाची ही यादी पाहिलीत का?</strong><br /></a>
                 <h6
                     class="text-center text-dark" style="font-size:14px;"><strong><em>Maharashtra Times| Sep 26, 2017, 03.15 PM IST मटा ऑनलाइन वृत्त । मुंबई</em></strong></h6>
@@ -103,11 +107,11 @@
                 </div>
                 <div class="col-sm-6 col-md-4 item"><a><img class="img-thumbnail img-fluid" src="iassets/img/Personal-Care-and-Beauty-Products.jpg"></a>
                     <h3 class="text-uppercase text-info bg-dark name"><strong>PERSONAL CARE AND medical products : औषधे व सौंदर्यप्रसाधने</strong><br></h3>
-                    <p class="text-light description"> Products commonly referred to as "personal care products" are cosmetics. These include, for example, skin moisturizers, perfumes, lipsticks, fingernail polishes, eye and facial makeup preparations, shampoos, hair colors, toothpastes, and deodorants.</p>
+                    <p class="text-light description"> Personal care products includes, for example, beauty products, products related to hygenicness of male & female, room cleaners, common medicines and many other.</p>
                 </div>
                 <div class="col-sm-6 col-md-4 item"><a><img class="img-thumbnail img-fluid" src="iassets/img/bakeryprod1.jpg"></a>
                     <h3 class="text-uppercase text-info bg-dark name"><strong>Bakery & DAIRY PRODUCTS : दुग्धजन्य पदार्थ व इतर खाद्यपदार्थ&nbsp;</strong><br></h3>
-                    <p class="text-light description">The main bakery products are bread, biscuits, cakes, pastries and other milk and dairy products. Bakery products are usually prepared from flour or meal derived from some form of grain.</p>
+                    <p class="text-light description">The main bakery products are bread, biscuits, cakes, pastries, snacks and other milk and dairy products. Bakery products are usually prepared from flour or meal derived from some form of grain.</p>
                 </div>
                 <div class="col-sm-6 col-md-4 item"><a><img class="img-thumbnail img-fluid" src="iassets/img/lemon-drink.jpg"></a>
                     <h3 class="text-uppercase text-info bg-dark name"><strong>BEVERAGES &amp; COLD products: शीत पदार्थ&nbsp;</strong><br></h3>
@@ -120,7 +124,9 @@
             </div>
         </div>
     </div>
-    <div class="features-blue">
+	
+	
+    <div class="features-blue" id="makealist">
         <div class="container">
             <div class="intro">
                 <h2 class="text-uppercase text-center text-warning">• Make a list •</h2>
@@ -129,7 +135,9 @@
             </div>
         </div>
     </div>
-    <div class="features-blue">
+	
+	
+    <div class="features-blue" id="feedback">
         <div class="container">
             <div class="intro">
                 <h2 class="text-uppercase text-center text-warning">• feedback form •</h2>
@@ -144,6 +152,8 @@
             </div>
         </div>
     </div>
+	
+	
     <div class="footer-dark">
         <footer>
             <div class="container">
@@ -151,9 +161,9 @@
                     <div class="col-sm-6 col-md-3 item">
                         <h3 class="text-primary">Site map</h3>
                         <ul>
-                            <li><a href="#">Introduction</a></li>
-                            <li><a href="#">Make a list</a></li>
-                            <li><a href="#">Feedback</a></li>
+                            <li><a href="#intro">Introduction</a></li>
+                            <li><a href="#makealist">Make a list</a></li>
+                            <li><a href="#feedback">Feedback</a></li>
                         </ul>
                        <hr>
                     </div>
@@ -171,6 +181,7 @@
     <script src="iassets/js/jquery.min.js"></script>
     <script src="iassets/bootstrap/js/bootstrap.min.js"></script>
     <script src="iassets/js/bs-animation.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
 
 
 	</body>
