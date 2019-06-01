@@ -1,0 +1,151 @@
+﻿
+eng		 - mar	 	- hin
+
+	CEREAL GRAINS AND PRODUCTS
+
+Pearl Millet - 	Bajri - 		Bajra
+foxtail millet - 	Rala - 		Kangni
+Sorghum - 	Jwari - 		Juar
+Maize: - 		Maka - 		Bhutta, Maka
+Cornflour 		Cornflour 		Makke ka Atta
+Finger Millet - 	Nachni- 		Ragi, Madua
+Rice, parboiled -	 Ukadla tandool - 	Usnachawal
+Rice raw - 		Tandool - 		Chawal
+Rice -Basmati	Basmati		Basmati
+Rice bran		Konda		
+Rice flakes/Beaten Rice	Pohe		Chewra
+Rice, puffed	churmura		Murmura
+Samai:		Sava		Mutki
+Wheat:		Gahu		Gehu
+Wheat flour, whole	Kaneek		Atta
+Wheat flour, refined	Maida		Maida
+Semolina		Rava
+Sago Rice 		Sabu Dana	Sabu Dana
+
+
+	PULSES AND LEGUMES - dried
+
+Bengalgram/Chick pea	Harbara	Chana
+Blackgram	Udid dal		Urid dal
+Cowpea-dried	Chavli		Lobia
+Greengram	Mug dal		Mung dal
+Horsegram:	Kuleeth		Kulthi
+Red Lentil		Masur dal		Masoor
+Peas:		Vatana		Katar
+Redgram/Pigeon pea	Tur dal		Arhar dal
+Turkish Gram 	Matki		
+Kidney Beans	Rajma		
+Finger Millet	Ragi		
+Ground Nut	Moongfalli	
+
+
+
+	VEGETABLES
+
+
+Ashgourd		Kohala		Petha
+Artichoke		Hathichouk
+Eggplant / Brinjal	Vangi		Baigan
+(dancer,nubia,barbarella,fairytale, black nadia, machiaw)
+Beetroot		Beetroot		Chukandar
+Bell Pepper/Capsicum	Dhobli Mirchi	Simla Mirch
+Bitter Gourd	Karle		Karela
+Bottle Gourd	Doodhi Bhopla	Lauki, Kaddu
+Cabbage		Kobi		Pattagobi
+Carrot		Gajar		Gajar
+Cauliflower	flowar		Phoolgobi
+Coriander leaves	Kothimbir		dhaniya ke patte
+Cluster Beans	Gavar		Gavar
+Colacassia		Alu chi pane	Arvi
+Corn - Maize	Maka/kanis	Makkai - bhutta
+Cucumber		Kaakdi		Kaakdi
+Curry leaves	kadhi patta	Kari patta
+Drumstick	Shevaga sheng	Shingh phali
+Field beans	Val-papdi		Val
+French/green beans	Farasbi		Farasbi/Bakla
+Garlic		Lasun		Lahasun
+Green Chili	Hirvi Mirchi	Hari Mirch
+Green/fresh peas	Matar / Vatana	Matar
+Hyacinth beans	surti papdi	surti papdi
+Ivy Gourd - Tindora	Tondali		Tindora,Tendli
+Jackfruit - raw	Kachcha phanas	Kathal
+Knolkol		Navalkol		Gathgobi
+Lady Finger - Okra	Bhendi		Bhindi
+Long Beans - 	Chavli sheng	Lobia
+Mushroom	Kutryachi chattri	Khumb , Guchhi
+Onion		Kanda		Pyaj
+Pearl Onion	pandhara kanda	safed pyaj
+Potato		Batata		Aloo
+Pumpkin		Bhopla		Kaddu
+Radish		Mula		Muli
+Ridge gourd	Dodka,shirale	Turai 
+sponge gourd	Ghosali		
+Snake gourd	Padval		Chichinda
+Sweet Potato	Ratali		Surti Kand
+tomato		tomato		tamatar
+Yam		Suran		Suran
+
+red-leaf-spinach	Maath		
+green sorrel	ambat chuka	
+Red Sorrel		Ambadi		Gongura
+Mustard Leaves	Mohari-chi pan	Sarson-ka-sag
+Neem Leaves	Kadulimb		Neem-ke-patte
+Onion stalks	Pati kanda	Pyaz ki patti
+Plantain flower	Kel phool		Kele-ka-phool
+Plantain, green	kachcha Kel	Kela (hara)
+	
+
+
+	FRUITS NAD DRYFRUITS
+
+Amla/Indian gooseberry	Avala		Amla
+Apple regular	Safar Chad	seb
+Apple green	Safar Chad	hara seb
+Avocados
+Banana (riped)	kele		kela (paka hua),
+Berries
+Black plum	Jambhul		Jamun
+bora/Indian jujube-regular	Bor		Ber
+bora/Indian jujube-large	Bor		Ber
+Cashew fruit	Kaju		Kaju
+Cantalope - Muskmelon	Kharbooj	Kharbooja
+Cherries
+Custard apple	Sitaphal		Sitaphal 
+Figs (riped)	Anjeer		Anjeer
+Grapes green/Raisins 	hirwi Draksha	haraa Angoor
+Grapes black/Raisins 	kaali Draksha	kala Angoor
+Grapefruit-Pomelo	Papanas		Chakotara
+Guava,		Peru		Amrood
+Jack fruit		Phanas		Kathal
+karonde 		karvanda 		karvanda 
+Lemon:		Limbu		Neembu
+Litchi		Litchi		Litchi
+Lime sweet	Mosumba		Mosumba
+Mango (riped)	Amba (piklela)	Aam (paka hua),
+Mango Green/Raw	Kairi		Kachcha Aam
+waterMelon, 	Kalingad		Tarbuj
+Orange:		Santra		Santra/Narangi
+Palm fruit/Ice apple 	Tadgola		Tadgola
+Papaya (riped) 	Popaya		Papita
+Peaches		Peach		peach
+Pears		Nashpati
+Plums		Aloobukhar
+Pine apple		Ananas		Ananas
+Pomegranate:	Dalimb		Anar
+sapota 		Chikku		chiku
+Star gooseberry	chota aavla	karonda
+
+
+Cashew Nut	Kaju 		Kaju
+Pistachio		Pista		Pista
+Almonds		Badam बदाम	Badam
+Figs (dried)	Anjeer (suka)	Anjeer (suka)
+Apricots 		Jardaloo		Khabani
+Dates 		Khajoor खजूर	Khajoor
+golden Raisins (dried)	Bedana		Kishmish
+Black Raisins (dried)		manuka		Kishmish
+Walnuts 		Akrod		Akhrot
+Pistachoise	Pista		Pista
+
+
+
